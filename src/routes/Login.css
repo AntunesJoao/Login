@@ -16,3 +16,11 @@ form{
 p{
     margin-top: 1rem;
 }
+
+.conteiner input{
+    width: 300px;
+}
+
+a{
+    text-decoration: none ;
+  }

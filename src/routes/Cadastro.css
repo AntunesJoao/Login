@@ -1,0 +1,21 @@
+
+.form-cadastro{
+    display: flex;
+    flex-direction: column;
+    margin: 5rem auto;
+    max-width: 400px;
+}
+
+button{
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    color: aqua;
+    opacity: 0.5;
+    margin-top: 10px;
+}
+
+button:hover{
+    opacity: 1;
+}
